@@ -15,9 +15,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.Timer;
 import javax.swing.JFrame;
-import javax.swing.JMenu;
-import javax.swing.JMenuBar;
-import javax.swing.JMenuItem; 
+
 
 
 public class FlappyBird implements ActionListener, MouseListener, KeyListener
