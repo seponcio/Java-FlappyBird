@@ -1,6 +1,6 @@
-package flappyBird;
+package flappybird;
 
 public enum GameState
 {
-	OVER, READY, STARTED
+	OVER, READY, STARTED, PAUSED
 }

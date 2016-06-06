@@ -1,4 +1,4 @@
-package flappyBird;
+package flappybird;
 
 import javax.swing.JPanel;
 import java.awt.Graphics;
